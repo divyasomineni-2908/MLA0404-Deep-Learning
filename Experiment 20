@@ -1,0 +1,18 @@
+Settings
+
+DATASET → Spiral
+
+FEATURES
+
+X1
+X2
+
+Top settings
+
+Learning rate = 0.01
+Activation = Linear
+
+Hidden layers
+
+Layer 1 = 2 neurons
+Layer 2 = 2 neurons
