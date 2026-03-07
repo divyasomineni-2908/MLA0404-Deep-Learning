@@ -1,0 +1,18 @@
+Settings
+
+DATASET → Two clusters
+FEATURES → X1, X2
+
+Top settings
+
+Learning rate = 0.03
+Activation = Linear
+Regularization = None
+Problem type = Classification
+
+Hidden layers
+
+Layer 1 = 3 neurons
+Layer 2 = 3 neurons
+
+Noise = 0
