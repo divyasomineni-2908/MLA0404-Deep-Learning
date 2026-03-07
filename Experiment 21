@@ -1,0 +1,19 @@
+Settings
+
+DATASET → Circle
+
+Top settings
+
+Learning rate = 0.1
+Activation = ReLU
+
+Hidden layers
+
+Layer 1 = 2 neurons
+Layer 2 = 2 neurons
+Layer 3 = 2 neurons
+
+Features
+
+X1
+X2
