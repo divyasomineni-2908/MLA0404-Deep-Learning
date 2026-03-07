@@ -1,0 +1,14 @@
+Settings
+
+DATASET → Spiral
+
+Top settings
+
+Learning rate = 0.001
+Activation = ReLU
+
+Hidden layers
+
+Layer 1 = 2 neurons
+Layer 2 = 2 neurons
+Layer 3 = 2 neurons
