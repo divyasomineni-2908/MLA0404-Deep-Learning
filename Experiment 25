@@ -1,0 +1,13 @@
+Settings
+
+DATASET → Circle
+
+Top settings
+
+Learning rate = 0.1
+Activation = Tanh
+
+Hidden layers
+
+Layer 1 = 2 neurons
+Layer 2 = 2 neurons
